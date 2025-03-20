@@ -3,7 +3,7 @@ import { Box, Typography, Card, CardContent } from "@mui/material";
 
 const experienceData = [
 	{
-		role: "Software Developer Intern",
+		role: "Web Developer Intern",
 		company: "Sanridge Pvt Ltd",
 		duration: "Jul 2021 - Dec 2021",
 		achievements: [
@@ -24,8 +24,8 @@ const experienceData = [
 	},
 	{
 		type: "experience",
-		role: "Software Development Engineer - Mobile Platform",
-		company: "Unif1",
+		role: "front End Developer - Web and Mobile Platforms",
+		company: "Denken Solutions",
 		duration: "Aug 2024 - Present",
 		achievements: [
 			"Developed frontend components using React and React Native.",
