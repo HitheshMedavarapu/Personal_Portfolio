@@ -24,7 +24,7 @@ const experienceData = [
 	},
 	{
 		type: "experience",
-		role: "Software Development Engineer - Web and Mobile Platforms",
+		role: "Frontend Software Engineer - Web and Mobile Platforms",
 		company: "Denken Solutions",
 		duration: "Aug 2024 - Present",
 		achievements: [
