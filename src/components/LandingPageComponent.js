@@ -7,7 +7,7 @@ import {
 	useTheme,
 } from "@mui/material";
 import { Link } from "react-scroll";
-import resume from "../assets/Resume.pdf";
+import resume from "../assets/resume.rtf";
 
 const LandingPageComponent = () => {
 	const theme = useTheme();
