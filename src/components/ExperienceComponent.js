@@ -32,7 +32,7 @@ const experienceData = [
 			"Designed layouts and prototypes in Figma and Canva. Implemented server-side logic in Node.js and Express, tested APIs with Postman.",
 			"Managed code with GitHub and deployed to AWS. Designed NoSQL databases using MongoDB and Firebase.",
 			"Utilized Android Studio, Expo, Xcode for mobile app development. Integrated content management system (CMS) tools for efficient workflows.",
-			"Designed and implemented RESTful APIs that handle over 1,000 requests per second with 99.9% uptime. Collaborated with cross-functional teams to deliver new features using Agile methodologies, completing sprints with 95% success rate."
+			"Designed and implemented RESTful APIs that handle over 1,000 requests per second with 99.9% uptime. Collaborated with cross-functional teams to deliver new features using Agile methodologies, completing sprints with 95% success rate.",
 			"Optimized database queries resulting in 60% reduction in response time for critical business operations. Implemented automated testing frameworks that increase code coverage to 90% and reduced bug incidents by 35%."
 		]
 	}
