@@ -3,9 +3,9 @@ import { Box, Typography, Card, CardContent } from "@mui/material";
 
 const experienceData = [
 	{
-		role: "Web Developer Intern",
+		role: "Software Developer Intern",
 		company: "Sanridge Pvt Ltd",
-		duration: "Jul 2021 - Dec 2021",
+		duration: "Jan 2020 - May 2022",
 		achievements: [
 			"Designed and developed the cab booking feature for the “Excelli Super App” using Figma for UI/UX, collaborated with stakeholders to translate user needs into front-end solutions with HTML/CSS and JavaScript, and ensured code quality through reviews and documentation management."
 		]
@@ -13,7 +13,7 @@ const experienceData = [
 	{
 		role: "Graduate Assistant",
 		company: "SUNY New Paltz",
-		duration: "Jan 2024 - may 2024",
+		duration: "May 2023 - Dec 2023",
 		achievements: [
 			"Developed and deployed a full-stack AI-powered grading website using modern frameworks (React.js, Angular, FastAPI) and AWS, reducing grading time by 80% and improving student satisfaction by 50%, while also managing project communications, tracking key metrics with Tableau/Power BI, and ensuring clear documentation."
 		],
@@ -24,17 +24,16 @@ const experienceData = [
 	},
 	{
 		type: "experience",
-		role: "Frontend Software Engineer - Web and Mobile Platforms",
+		role: "Software Engineer - Web and Mobile Platforms",
 		company: "Denken Solutions",
-		duration: "Aug 2024 - Present",
+		duration: "Jan 2024 - Present",
 		achievements: [
 			"Developed frontend components using React and React Native.",
-			"Designed layouts and prototypes in Figma and Canva.",
-			"Implemented server-side logic in Node.js and Express, tested APIs with Postman.",
-			"Managed code with GitHub and deployed to AWS.",
-			"Designed NoSQL databases using MongoDB and Firebase.",
-			"Utilized Android Studio, Expo, Xcode for mobile app development.",
-			"Integrated content management system (CMS) tools for efficient workflows."
+			"Designed layouts and prototypes in Figma and Canva. Implemented server-side logic in Node.js and Express, tested APIs with Postman.",
+			"Managed code with GitHub and deployed to AWS. Designed NoSQL databases using MongoDB and Firebase.",
+			"Utilized Android Studio, Expo, Xcode for mobile app development. Integrated content management system (CMS) tools for efficient workflows.",
+			"Designed and implemented RESTful APIs that handle over 1,000 requests per second with 99.9% uptime. Collaborated with cross-functional teams to deliver new features using Agile methodologies, completing sprints with 95% success rate."
+			"Optimized database queries resulting in 60% reduction in response time for critical business operations. Implemented automated testing frameworks that increase code coverage to 90% and reduced bug incidents by 35%."
 		]
 	}
 ];
